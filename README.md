@@ -1,5 +1,13 @@
 # 💫 About Me:
-<br><br>Hi, I'm Ashutosh Jha.<br><br>I'm a Computer Science undergraduate passionate about software engineering, competitive programming, and building scalable applications. I'm focused on  Software Engineering , Competitive Programming ,  Backend Development ,  System Design ,  Cloud & DevOps ,  Data Structures & Algorithms and Currently I'm Learning Advanced C++ , Distributed Systems , Docker & Kubernetes , Databases , Low-Level Design.
+# Hey, I'm Ashutosh Jha 👋
+
+ **Data Science | ML | Problem Solving**
+
+Passionate about transforming raw data into meaningful insights and building intelligent, data-driven solutions.
+
+- 🐍 **Skills:** Python, C++, SQL, Pandas, NumPy, Data Visualization
+- 🤖 **Exploring:** Machine Learning, Statistical Analysis & Predictive Modeling
+- 🚀 **Goal:** Deep study of ML, DL, Neural network , and real world projects.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theashutosh18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashutosh-jha-b6641a385/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AshutoshJha0018) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aj4859242@gmail.com) 
